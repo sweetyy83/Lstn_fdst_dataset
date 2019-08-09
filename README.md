@@ -5,4 +5,15 @@ We collected 100 videos captured from 13 different scenes, and FDST dataset cont
 
 ## Download FDST datasets
 
-Please manually download our dataset :https://pan.baidu.com/s/1NNaJ1vtsxCPJUjDNhZ1sHA  (password:sgt1) or
+Please manually download our dataset: https://drive.google.com/drive/folders/19c2X529VTNjl3YL1EYweBg60G70G2D-w?usp=sharing or https://pan.baidu.com/s/1NNaJ1vtsxCPJUjDNhZ1sHA  (password:sgt1)
+
+
+## Citation
+
+If you find this useful, please cite our work as follows:
+@article{fang2019locality,
+  title={Locality-constrained Spatial Transformer Network for Video Crowd Counting},
+  author={Fang, Yanyan and Zhan, Biyun and Cai, Wandi and Gao, Shenghua and Hu, Bo},
+  journal={arXiv preprint arXiv:1907.07911},
+  year={2019}
+}
