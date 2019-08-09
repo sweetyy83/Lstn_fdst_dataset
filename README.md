@@ -13,7 +13,6 @@ Please manually download our dataset: https://drive.google.com/drive/folders/19c
 If you find this useful, please cite our work as follows:
 
 ```
-@ARTICLE{sss,
 @article{fang2019locality,
   title={Locality-constrained Spatial Transformer Network for Video Crowd Counting},
   author={Fang, Yanyan and Zhan, Biyun and Cai, Wandi and Gao, Shenghua and Hu, Bo},
